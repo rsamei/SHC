@@ -1,9 +1,8 @@
 # Stat-Hackathon 2022 — predicting vehicle accident counts
 
-First place, out of the teams that entered. The hackathon was organised by the
-Department of Economics of the University of Bergamo on 31 May and 1 June 2022. There
-were five of us; we used Python, R and SAS. This repository holds the Python part, which
-is the part I worked on.
+My team won this. It was organised by the Department of Economics of the University of
+Bergamo on 31 May and 1 June 2022. There were five of us and we used Python, R and SAS;
+this repository holds the Python part, which is the part I worked on.
 
 ## The task
 
